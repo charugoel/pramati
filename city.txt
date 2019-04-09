@@ -1,0 +1,453 @@
+Adilabad
+Agartala
+Agra
+Ahmedabad City
+Ahmedabad GPO
+Ahmednagar
+Ajmer
+Akola
+Aligarh
+Allahabad
+Alleppey
+Almora
+Alwar
+Alwaye
+Amalapuram
+Amaravati
+Ambala
+Amreli
+Amritsar
+Anakapalle
+Anand
+Anantapur
+Anna Road H.O
+Arakkonam
+Arunachal Pradesh
+Asansol
+Aska
+Aurangabad(Bihar)
+Aurangabad(Maharashtra)
+Azamgarh
+Bagalkot
+Bahraich
+Balaghat
+Balangir
+Balasore
+Ballari
+Ballia
+Banasanktha
+Banda
+Bankura
+Barabanki
+Barabazaar H.O
+Baramulla
+Barasat
+Bardoli
+Bareilly
+Barmer
+Bastar
+Basti
+Beawar
+Beed
+Begusarai
+Belagavi
+Bengaluru East
+Bengaluru GPO
+Bengaluru South
+Bengaluru West
+Berhampur
+Bhadrak
+Bhagalpur
+Bharatpur
+Bharuch
+Bhatinda
+Bhavnagar
+Bhilwara
+Bhimavaram
+Bhiwani
+Bhojpur
+Bhopal
+Bhubaneswar
+Bhusaval
+Bidar
+Bijnor
+Bikaner
+Bilaspur
+Birbhum
+Budaun
+Bulandshahar
+Buldana
+Burdwan
+Cachar
+Calcutta South
+Calicut
+Cannanore
+Chamba
+Chamoli
+Chandigarh
+Chandrapur
+Changanacherry
+Channapatna
+Chengalpattu
+Chennai City Central
+Chennai City North
+Chennai City South
+Chennai GPO
+Chhatarpur
+Chhindwara
+Chikkamagaluru
+Chikodi
+Chitradurga
+Chittoor
+Chittorgarh
+Churu
+Coimbatore
+Contai
+Cooch Behar
+Cuddalore
+Cuddapah
+Cuttack City
+Cuttack North
+Cuttack South
+Darbhanga
+Darjeeling
+Darrang
+Dehra Gopipur
+Dehradun
+Delhi East
+Delhi GPO
+Delhi North
+Deoria
+Dhanbad
+Dharamsala
+Dharmanagar
+Dharmapuri
+Dharwad
+Dhenkanal
+Dholpur
+Dhule
+Dibrugarh
+Dindigul
+Dungarpur
+Durg
+East Champaran
+Eluru
+Ernakulam
+Erode
+Etah
+Etawah
+Faizabad
+Faridabad
+Faridkot
+Fatehgarh
+Fatehpur
+Ferozpur
+Gadag
+Gandhinagar
+Gaya
+Ghaziabad
+Ghazipur
+Giridih
+Goa
+Goalpara
+Gokak
+Gonda
+Gondal
+Gorakhpur
+Gudivada
+Gudur
+Guna
+Guntur
+Gurdaspur
+Gurgaon
+Guwahati
+Gwalior
+Hamirpur
+Hanamkonda
+Hardoi
+Hassan
+Haveri
+Hazaribagh
+Hindupur
+Hissar
+Hooghly North
+Hooghly South
+Hoshangabad
+Hoshiarpur
+Howrah
+Hyderabad City
+Hyderabad GPO
+Hyderabad South East
+Idukki
+Indore City
+Indore Moffusil
+Irinjalakuda
+Jabalpur
+Jaipur City
+Jaipur Moffusil
+Jalandhar
+Jalgaon
+Jalpaiguri
+Jammu
+Jamnagar
+Jaunpur
+Jhansi
+Jhunjhunu
+Jodhpur
+Junagadh
+Kakinada
+Kalaburagi
+Kalahandi
+Kanchipuram
+Kanniyakumari
+Kanpur City
+Kanpur Moffusil
+Kapurthala
+Karaikudi
+Karimnagar
+Karnal
+Karur
+Karwar
+Kasaragod
+Keonjhar
+Khammam
+Khandwa
+Kheda
+Kheri
+Kodagu
+Kolar
+Kolhapur
+Kolkata Central
+Kolkata East
+Kolkata GPO
+Kolkata North
+Koraput
+Kota
+Kottayam
+Kovilpatti
+Krishnagiri
+Kumbakonam
+Kurnool
+Kurukshetra
+Kutch
+Lakshadweep
+Leh
+Lucknow
+Lucknow GPO
+Ludhiana City
+Ludhiana Moffusil
+Machilipatnam
+Madhubani
+Madurai
+Mahabubnagar
+Mahesana
+Mainpuri
+Malda
+Malegaon
+Mandi
+Mandsaur
+Mandya
+Mangaluru
+Manipur
+Manjeri
+Mathura
+Mavelikara
+Mayiladuthurai
+Mayurbhanj
+Medak
+Meerut
+Meghalaya
+Midnapore
+Mirzapur
+Mizoram
+Monghyr
+Moradabad
+Morena
+Mumbai  East
+Mumbai  North
+Mumbai  North East
+Mumbai  North West
+Mumbai  South
+Mumbai  West
+Mumbai G.P.O.
+Murshidabad
+Muzaffarnagar
+Muzaffarpur
+Mysuru
+Nadia North
+Nadia South
+Nagaland
+Nagaon
+Nagapattinam
+Nagaur
+Nagpur City
+Nagpur Moffusil
+Nainital
+Nalanda
+Nalbari
+Nalgonda
+Namakkal
+Nanded
+Nandyal
+Nanjangud
+Narasaraopet
+Nasik
+Navi Mumbai
+Navsari
+Nawadha
+Nellore
+New Delhi Central
+New Delhi GPO
+New Delhi South
+New Delhi South West
+New Delhi West
+Nilgiris
+Nizamabad
+North Presidency
+Osmanabad
+Ottapalam
+Palamau
+Palghar
+Palghat
+Pali
+Panchmahals
+Pandharpur
+Parvathipuram
+Patan
+Pathanamthitta
+Patiala
+Patna
+Patna GPO
+Pattukottai
+Pauri
+Peddapalli
+Pharbhani
+Phulbani
+Pithoragarh
+Pollachi
+Pondicherry
+Porbandar
+Prakasam
+Pratapgarh
+Proddatur
+Pudukkottai
+Pune City East
+Pune City West
+Pune Moffusil
+Puri
+Purnea
+Purulia
+Puttur
+Quilon
+Rae Bareilly
+Raichur
+Raigad
+Raigarh
+Raipur
+Rajahmundry
+Rajkot
+Rajouri
+Ramanathapuram
+Rampur Bushahr
+Ranchi
+Ratlam
+Ratnagiri
+Rewa
+Rohtak
+Rohtas
+Sabarkantha
+Sagar
+Saharanpur
+Saharsa
+Salem East
+Salem West
+Samastipur
+Sambalpur
+Sangareddy
+Sangli
+Sangrur
+Santhal Parganas
+Saran
+Satara
+Sawaimadhopur
+Secunderabad
+Sehore
+Shahdol
+Shahjahanpur
+Shimla
+Shivamogga
+Shrirampur
+Sibsagar
+Sikar
+Sikkim
+Sindhudurg
+Singhbhum
+Sirohi
+Sirsi
+Sitamarhi
+Sitapur
+Sivaganga
+Siwan
+Solan
+Solapur
+Sonepat
+South Presidency
+Sriganganagar
+Srikakulam
+Srinagar
+Srirangam
+Sultanpur
+Sundargarh
+Surat
+Surendranagar
+Suryapet
+Tadepalligudem
+Tambaram
+Tamluk
+Tehri
+Tenali
+Thalassery
+Thane
+Thanjavur
+Theni
+Tinsukia
+Tiruchirapalli
+Tirunelveli
+Tirupati
+Tirupattur
+Tirupur
+Tirur
+Tiruvalla
+Tiruvannamalai
+Tonk
+Trichur
+Trivandrum North
+Trivandrum South
+Tumakuru
+Tuticorin
+Udaipur
+Udhampur
+Udupi
+Ujjain
+Una
+Vadakara
+Vadodara East
+Vadodara West
+Vaishali
+Valsad
+Varanasi East
+Varanasi West
+Vellore
+Vidisha
+Vijayapura
+Vijayawada
+Virudhunagar
+Visakhapatnam
+Vizianagaram
+Vriddhachalam
+Wanaparthy
+Warangal
+Wardha
+West Champaran
+West Dinajpur
+Yeotmal
